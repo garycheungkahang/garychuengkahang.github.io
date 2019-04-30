@@ -35,9 +35,12 @@
                 <h2 class="padding1"> Design ,Programme, Facebook Page Management ,ads </h2>
                 <div class="space"></div>                       
             </div>
-            <div class="edu padding1">
-                <h1>Education</h1>
-                <h3> TKU Industrial Economics</h3>
+            <div class="edu title_padding">
+                <h1 class='title_padding title_margin'>Education</h1>
+                <div class="line title_margin "></div>
+                <h3 class="padding1"> TKU Industrial Economics</h3>
+                <div class="space"></div>            
+
             </div>
             <div class="exprience title_padding">
                 <h1 class='title_padding title_margin'>School Activities</h1>
@@ -52,23 +55,23 @@
                 <div class="space"></div>            
                 <h1 class='title_padding title_margin'>Exprience</h1>
                 <div class="line title_margin "></div>
-                <h2 class="padding1"> 啟夢教育諮詢 行銷負責人 </h2>                                    
+                <a href="https://www.facebook.com/enlightendream/"><h2 class="padding1"> 啟夢教育諮詢 行銷負責人 </h2> </a>                                   
                 <p class="padding1"> 經營粉絲專業並讓按讚人從380人升至1200人 </p> 
                 <p class="padding1">製作組織的介紹影片以及成果展示影片 </p> 
                 <p class="padding1">參與「雜學校」展覽的規劃</p> 
                 <div class="space"></div>
-                <h2 class="padding1">魔力學院(北京人工智能教育課程公司) 行銷實習生  </h2>            
+                <a href="https://www.molistudy.com/"><h2 class="padding1">魔力學院(北京人工智能教育課程公司) 行銷實習生  </h2></a>            
                 <p class="padding1">客戶服務諮詢 </p>
                 <p class="padding1">規劃線上課程(觀看人數達3000人) </p>
                 <p class="padding1">中、高考課程市場調研分析 </p>
                 <p class="padding1"> 撰寫區塊鏈產品推廣文</p>
                 <div class="space"></div>
-                <h2 class="padding1">TimeMap 行銷專員  </h2>            
+                <a href="https://www.facebook.com/timemapeducation/"><h2 class="padding1">TimeMap 行銷專員  </h2></a>            
                 <p class="padding1">高中生社團經營 </p>
                 <p class="padding1">問卷製作、派發 並在沒有抽獎資源下獲得800份問卷 </p>
                 <p class="padding1">問卷數據分析 </p>
                 <div class="space"></div>
-                <h2 class="padding1">氪空間(北京公共辦工空間公司) 創投部實習生 </h2>    
+                <a href="https://www.krspace.cn/?lang=zh&cityId=0"><h2 class="padding1">氪空間(北京公共辦工空間公司) 創投部實習生 </h2> </a>   
                 <p class="padding1"> 參與了2個創業投資個案的洽談   </p>            
                 <div class="space"></div>
                 <h2 class="padding1">美聯物業(香港三大物業公司) 暑期工 </h2>
