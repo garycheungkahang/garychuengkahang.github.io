@@ -1,0 +1,148 @@
+*{
+    box-sizing:border-box;
+}
+[class *= 'resume_']{
+    float: left;
+}
+.big_container{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: solid black;
+    display: flex;
+}
+.resume_left{
+    width: 40%;
+    background: rgb(248, 50, 83);
+    align-content: center;
+    margin: 0;
+    background: linear-gradient(rgb(238, 64, 64), blue,rgb(147, 147, 247));
+    border: solid black;
+
+}
+.resume_right{
+    width: 60%;
+    background: rgb(250, 143, 72);
+    border: solid black;
+}
+.icon{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 16%;
+}
+
+.icon >img{
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.name{
+    color: aliceblue;
+    align-content: center;
+}
+
+.born{
+    color: aliceblue;
+
+}
+.social_media{
+    color: aliceblue;
+
+}
+.contact{
+    color: aliceblue;
+
+}
+.school{
+    color: aliceblue;
+
+}
+
+.edu{
+
+}
+.exprience{
+
+}
+.skills{
+
+}
+.profession{
+
+}
+
+.center{
+    text-align: center;
+}
+
+.border{
+}
+.padding1{
+    padding: 15px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.line{
+    border: solid green 5px;
+    width: 200px;
+}
+.title_padding{
+    padding: 0;
+  }
+.title_margin{
+    margin: 0;
+    margin-left: 15px;
+}
+h1>img{
+    max-width: 50px;
+    max-height: 50px;
+    background: rgb(109, 109, 250);
+    margin: 3px;
+}
+.space{
+    padding: 10px;
+  }
+.padding2{
+    padding: 15px;
+}
+.myworks{
+    width: 92%;
+    height: 440px;
+    background-image: url(resresume1.jpg);
+    /**-webkit-animation:mysecond 18s infinite; /* Safari and Chrome */
+    border-radius: 50%;
+
+}
+.i img{
+    max-width: 30px;
+    max-height: 30px;
+}
+.ig{
+
+}
+@-webkit-keyframes mysecond /* Safari and Chrome */
+{
+	0%  {background:url(https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/57216779_2683657511706978_1835938114896396288_o.jpg?_nc_cat=105&_nc_ht=scontent.ftpe7-4.fna&oh=5dc094eab32e0063c226f786c3b204fd&oe=5D4146AC);}
+	25%  {background:url(https://www.instagram.com/p/BtXS2AshrPu/);}
+	50%  {background:url(https://www.instagram.com/p/BtPT4MDBw2k/);}
+	100% {background:url(https://www.instagram.com/p/BszkhiSBo12/);}
+}
+.container-mid{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.myphotos{
+    width: 92%;
+    height: 440px;
+    -webkit-animation:myfirst 18s infinite; /* Safari and Chrome */
+    border-radius: 50%;
+}
+@-webkit-keyframes myfirst /* Safari and Chrome */
+{
+	0%   {background:url(https://picsum.photos/600/800?image=900);}
+	25%  {background:url(https://picsum.photos/600/800?image=901);}
+	50%  {background:url(https://picsum.photos/600/800?image=902);}
+	100% {background:url(https://picsum.photos/600/800?image=903);}
+}
