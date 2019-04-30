@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="style_resume.css">
+    <title>Myresume</title>
+</head>
+<body>
+    <div class="big_container">
+        <div class="resume_left center">
+            <div class="container-mid"><div class="icon border padding2">
+                <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/53037396_2586403691432361_9072844071763968000_n.jpg?_nc_cat=110&_nc_ht=scontent.ftpe7-1.fna&oh=74548b34b5aaeabe0d61f08ea2acfa4b&oe=5D05C54D" alt="">
+            </div></div>
+            <div class="name border padding2"> <h1>Name : Gary Cheung</h1></div>
+            <div class="born border padding2"> <h2>Birth : 97-09-05</h2></div>
+            <div class="school border padding2"> <h2>School : Tamkung University</h2> </div>
+            <div class="social_media border padding2"> <i class="i">
+                <h2>Social Media</h2> 
+                    <a href="https://www.facebook.com/gary.cheung.902"><img src="http://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/social-facebook-icon.png" alt=""></a>
+                    <a href="https://www.instagram.com/goldencircler/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" alt=""></a>
+                </i></div>
+            <div class="contact border padding2"> <h2>Gmail : gary.cheungqq456@gmail.com</h2></div>
+            
+        </div>
+        <div class="resume_right">
+            <div class="profession title_padding ">
+                <div class="space"></div>            
+                <div class="space"></div>            
+                <div class="space"></div>            
+                <h1 class='title_padding title_margin'> Profession</h1>
+                <div class="line title_margin "></div>
+                <h2 class="padding1"> Design ,Programme, Facebook Page Management ,ads </h2>
+                <div class="space"></div>                       
+            </div>
+            <div class="edu padding1">
+                <h1>Education</h1>
+                <h3> TKU Industrial Economics</h3>
+            </div>
+            <div class="exprience title_padding">
+                <h1 class='title_padding title_margin'>School Activities</h1>
+                <div class="line title_margin "></div>
+                <h2 class="padding1"> 畢業聯誼會 公關部成員 </h2>
+                <p class="padding1"> 與廠商洽談贊助事項並談成 NT$ 11000 贊助品 </p>
+                <div class="space"></div>                    
+                <h2 class="padding1"> 淡江學生會 學術小組成員 </h2>
+                <p class="padding1"> 舉辦學術性講座(3 場) </p>
+                <div class="space"></div>            
+                <h2 class="padding1"> 淡江擊劍社 選手  </h2>
+                <div class="space"></div>            
+                <h1 class='title_padding title_margin'>Exprience</h1>
+                <div class="line title_margin "></div>
+                <h2 class="padding1"> 啟夢教育諮詢 行銷負責人 </h2>                                    
+                <p class="padding1"> 經營粉絲專業並讓按讚人從380人升至1200人 </p> 
+                <p class="padding1">製作組織的介紹影片以及成果展示影片 </p> 
+                <p class="padding1">參與「雜學校」展覽的規劃</p> 
+                <div class="space"></div>
+                <h2 class="padding1">魔力學院(北京人工智能教育課程公司) 行銷實習生  </h2>            
+                <p class="padding1">客戶服務諮詢 </p>
+                <p class="padding1">規劃線上課程(觀看人數達3000人) </p>
+                <p class="padding1">中、高考課程市場調研分析 </p>
+                <p class="padding1"> 撰寫區塊鏈產品推廣文</p>
+                <div class="space"></div>
+                <h2 class="padding1">TimeMap 行銷專員  </h2>            
+                <p class="padding1">高中生社團經營 </p>
+                <p class="padding1">問卷製作、派發 並在沒有抽獎資源下獲得800份問卷 </p>
+                <p class="padding1">問卷數據分析 </p>
+                <div class="space"></div>
+                <h2 class="padding1">氪空間(北京公共辦工空間公司) 創投部實習生 </h2>    
+                <p class="padding1"> 參與了2個創業投資個案的洽談   </p>            
+                <div class="space"></div>
+                <h2 class="padding1">美聯物業(香港三大物業公司) 暑期工 </h2>
+                <p class="padding1"> 物業資料搜集並輸入系</p>
+            </div>
+            <div class="skills title_padding">
+                <H1 class='title_padding title_margin'>skills</H1>
+                <div class="line title_margin "></div>
+                <h3 class="padding1">Photoshop, illustrator , customer service , python , HTML , CSS , Photogrph ,婚禮統籌 </h3></div>
+            <div class="skills padding1"></div>
+            
+        </div>
+    </div>
+</body>
+</html>
