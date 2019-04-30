@@ -12,7 +12,7 @@
     display: flex;
 }
 .resume_left{
-	width: 33.33%;
+	width: 34%;
     background: rgb(248, 50, 83);
     align-content: center;
     margin: 0;
@@ -21,7 +21,7 @@
 
 }
 .resume_right{
-width: 66.66%;
+width: 66%;
     background: rgb(250, 143, 72);
     border: solid black;
 }
