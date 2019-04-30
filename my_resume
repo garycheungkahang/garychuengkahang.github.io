@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="big_container">
-        <div class="resume_left center col-s-4 col-4">
+        <div class="resume_left center col-">
             <div class="container-mid"><div class="icon border padding2">
                 <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/53037396_2586403691432361_9072844071763968000_n.jpg?_nc_cat=110&_nc_ht=scontent.ftpe7-1.fna&oh=74548b34b5aaeabe0d61f08ea2acfa4b&oe=5D05C54D" alt="">
             </div></div>
@@ -25,7 +25,7 @@
             <div class="contact border padding2"> <h2>Gmail : gary.cheungqq456@gmail.com</h2></div>
             
         </div>
-        <div class="resume_right col-s-8 col-8">
+        <div class="resume_right col-">
             <div class="profession title_padding ">
                 <div class="space"></div>            
                 <div class="space"></div>            
